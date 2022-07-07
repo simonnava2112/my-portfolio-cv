@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f38590b.css",
+    "main.js": "/static/js/main.7df7574b.js",
+    "static/media/coding.gif": "/static/media/coding.54de1c2854e13f48aaaa.gif",
+    "static/media/simonNavaCv.pdf": "/static/media/simonNavaCv.1a8726c4620e2387c357.pdf",
+    "static/media/react-logo.png": "/static/media/react-logo.6bcffb56bd0efaa47767.png",
+    "static/media/mypro3.png": "/static/media/mypro3.c2843c64b025473fbcb8.png",
+    "static/media/simonnava.jpeg": "/static/media/simonnava.d4fe87753ca2315c06a9.jpeg",
+    "static/media/mypro1.png": "/static/media/mypro1.e09cff38205aa0c3583c.png",
+    "static/media/bootstraps.png": "/static/media/bootstraps.32c248432e2b86298964.png",
+    "static/media/Platzi.png": "/static/media/Platzi.70465628dc2631c31e90.png",
+    "static/media/developer.jpg": "/static/media/developer.72036b7c2cccb14c2f00.jpg",
+    "static/media/mypro2.png": "/static/media/mypro2.9cd741a74f5ef316d47e.png",
+    "static/media/udemy.png": "/static/media/udemy.4f26b5501c75608b5eb6.png",
+    "index.html": "/index.html",
+    "main.7f38590b.css.map": "/static/css/main.7f38590b.css.map",
+    "main.7df7574b.js.map": "/static/js/main.7df7574b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f38590b.css",
+    "static/js/main.7df7574b.js"
+  ]
+}
